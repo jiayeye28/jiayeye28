@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiaye Li! 
-- 👀 I’m interested in business intelligence and data warehousing related job.
+- 👀 I’m interested in business intelligence and data warehousing related jobs.
 - 🌱 I’m currently using Azure and AWS to work with large-scale datasets.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me ...at jiayeye28@gmail.com ! 
