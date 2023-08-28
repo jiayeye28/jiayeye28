@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jiaye Li! 
-- 👀 I’m interested in business intelligence and data science related jobs.
+- 👋 Hi, I’m Jiaye Li, graduating from Johns Hopkins! Currently,I am a market risk analyst.
+- 👀 I’m interested in business intelligence and data science related jobs and projects.
 - 🌱 I’m currently using Azure and AWS to work with large-scale datasets.
 - 💞️ At work, I'm writing sql queries and python scripts to streamline the trading data risk analysis
 - 📫 How to reach me ...at jiayeye28@gmail.com ! 
